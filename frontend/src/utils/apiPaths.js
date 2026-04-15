@@ -1,4 +1,4 @@
-export const BASE_URL = "https://prepmate-ai1.onrender.com";
+export const BASE_URL = "https://prepmate-ai1-1.onrender.com";
 
 export const API_PATHS = {
     AUTH: {
